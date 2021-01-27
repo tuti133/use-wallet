@@ -147,3 +147,4 @@ It returns an object representing the connected account (“wallet”), containi
 
 useWallet() is a built on [web3-react](https://github.com/NoahZinsmeister/web3-react) and its connectors, which are doing all the hard work internally.
 # use-wallet
+# use-wallet
